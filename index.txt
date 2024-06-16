@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Daniel zhang
+Daniel zhang
+Co-founder of Toutix | Developer
 
 Show Contacts
 
 Email
-richard@example.com
+zhangdaniel0120@gmail.com
 
 Phone
-+1 (213) 352-2795
++44 07437343463
 
 Birthday
-June 23, 1982
+Jan, 2002
 
 Location
-Sacramento, California, USA
+Durham, UK
 
 # navbar
 
