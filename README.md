@@ -42,3 +42,7 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 ## License
 
 MIT
+
+
+Check local at: http://localhost:8000/
+Deploy with: python -m http.server 8000
